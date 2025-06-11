@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arslan</h1>
-<h3 align="center">A passionate MERN stack developer from Pakistan</h3>
+<h3 align="center">Backend developer</h3>
 <img align="right" alt="Coding" Width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Description of the image">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanarsal&label=Profile%20views&color=0e75b6&style=flat" alt="arslanarsal" /> </p>
 
-- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **MERN, DS&A**
 
