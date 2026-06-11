@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Arslan</h1>
+<h1 align="center">Hi 👋, I'm Arslan</h1>
 <h3 align="center">Backend Developer • Generative AI & Agentic AI Engineer • DevOps</h3>
 <p align="center">I build production backend systems, AI agents, and the infrastructure to ship them</p>
 
